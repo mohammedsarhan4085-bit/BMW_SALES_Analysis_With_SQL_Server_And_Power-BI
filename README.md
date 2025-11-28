@@ -87,11 +87,11 @@ DIVIDE([Total Revenue] - PrevYear, PrevYear)
 
 # 🖥️ Dashboard Preview
 ## Revenue Overview Preview
-![Revenue Overview](Image/Revenue_Overview.png)
+![Revenue Overview](Image/Revenue_Overview.PNG)
 ## Quantity Overview Preview
-![Quantity Overview](Image/Quantity_Overview.png)
+![Quantity Overview](Image/Quantity_Overview.PNG)
 ## Performance Overview Preview
-![Model Performance](Image/Performance_Analysis_Overview.png)
+![Model Performance](Image/Performance_Analysis_Overview.PNG)
 
 
 ```
